@@ -1,0 +1,15 @@
+C:\Users\alfa\Desktop\CSharp-Kurs\CSharp-Kurs\Abschlussprojekt\ProjectCsharp\Tests\bin\Debug\net6.0\Tests.exe
+C:\Users\alfa\Desktop\CSharp-Kurs\CSharp-Kurs\Abschlussprojekt\ProjectCsharp\Tests\bin\Debug\net6.0\Tests.deps.json
+C:\Users\alfa\Desktop\CSharp-Kurs\CSharp-Kurs\Abschlussprojekt\ProjectCsharp\Tests\bin\Debug\net6.0\Tests.runtimeconfig.json
+C:\Users\alfa\Desktop\CSharp-Kurs\CSharp-Kurs\Abschlussprojekt\ProjectCsharp\Tests\bin\Debug\net6.0\Tests.dll
+C:\Users\alfa\Desktop\CSharp-Kurs\CSharp-Kurs\Abschlussprojekt\ProjectCsharp\Tests\bin\Debug\net6.0\ref\Tests.dll
+C:\Users\alfa\Desktop\CSharp-Kurs\CSharp-Kurs\Abschlussprojekt\ProjectCsharp\Tests\bin\Debug\net6.0\Tests.pdb
+C:\Users\alfa\Desktop\CSharp-Kurs\CSharp-Kurs\Abschlussprojekt\ProjectCsharp\Tests\obj\Debug\net6.0\Tests.csproj.AssemblyReference.cache
+C:\Users\alfa\Desktop\CSharp-Kurs\CSharp-Kurs\Abschlussprojekt\ProjectCsharp\Tests\obj\Debug\net6.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfa\Desktop\CSharp-Kurs\CSharp-Kurs\Abschlussprojekt\ProjectCsharp\Tests\obj\Debug\net6.0\Tests.AssemblyInfoInputs.cache
+C:\Users\alfa\Desktop\CSharp-Kurs\CSharp-Kurs\Abschlussprojekt\ProjectCsharp\Tests\obj\Debug\net6.0\Tests.AssemblyInfo.cs
+C:\Users\alfa\Desktop\CSharp-Kurs\CSharp-Kurs\Abschlussprojekt\ProjectCsharp\Tests\obj\Debug\net6.0\Tests.csproj.CoreCompileInputs.cache
+C:\Users\alfa\Desktop\CSharp-Kurs\CSharp-Kurs\Abschlussprojekt\ProjectCsharp\Tests\obj\Debug\net6.0\Tests.dll
+C:\Users\alfa\Desktop\CSharp-Kurs\CSharp-Kurs\Abschlussprojekt\ProjectCsharp\Tests\obj\Debug\net6.0\ref\Tests.dll
+C:\Users\alfa\Desktop\CSharp-Kurs\CSharp-Kurs\Abschlussprojekt\ProjectCsharp\Tests\obj\Debug\net6.0\Tests.pdb
+C:\Users\alfa\Desktop\CSharp-Kurs\CSharp-Kurs\Abschlussprojekt\ProjectCsharp\Tests\obj\Debug\net6.0\Tests.genruntimeconfig.cache
